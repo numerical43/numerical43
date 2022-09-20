@@ -2,6 +2,8 @@
 
 
 <img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/>
+![42 badge](https://img.shields.io/badge/42SEOUL%2B-black)
+
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F9D4D4&height=300&section=header&text=GitHub&amp;&fontColor=696969&fontSize=60&animation=twinkling&amp;fontAlignY=25&amp;desc=test%20test&amp;descAlignY=44" style="max-width: 100%;" />
