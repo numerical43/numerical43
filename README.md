@@ -1,6 +1,6 @@
 ### Hi 😎
 
-![42 badge](https://img.shields.io/badge/42SEOUL-black?style=plastic&logo=appveyor)
+![42 badge](https://img.shields.io/badge/42SEOUL-black?style=plastic&logo=42)
 
 
 <!--
