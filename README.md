@@ -1,7 +1,5 @@
 ### Hi 😎
 
-
-<img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/>
 ![42 badge](https://img.shields.io/badge/42SEOUL-black)
 
 
