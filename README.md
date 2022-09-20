@@ -1,6 +1,8 @@
 ### Hi 😎
 
+<!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F9D4D4&height=300&section=header&text=GitHub&amp;&fontColor=696969&fontSize=60&animation=twinkling&amp;fontAlignY=25&amp;desc=test%20test&amp;descAlignY=44" style="max-width: 100%;" />
+-->
 
 <!--
 **numerical43/numerical43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
