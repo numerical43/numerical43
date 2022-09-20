@@ -23,8 +23,11 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>   -->
 
-<img src="https://img.shields.io/badge/42SEOUL-000000?style=flat&logo=.ENV&logoColor=white"/>
-
+<p>
+<img src="https://img.shields.io/badge/42SEOUL-000000?style=flat-square&logo=42&logoColor=white"/>
+</p>
+  
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=numerical43&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
