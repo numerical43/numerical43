@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 <!-- <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>   -->
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=numerical43&show_icons=true&theme=buefy)
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=numerical43&show_icons=true&theme=buefy)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=200&section=footer)
