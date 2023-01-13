@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 80%" />
 </div>   -->
  
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&show_icons=true&theme=buefy)
 
