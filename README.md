@@ -28,6 +28,8 @@ Here are some ideas to get you started:
  
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=numerical43)](https://solved.ac/numerical4/)
+
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&show_icons=true&theme=buefy)
 
 
