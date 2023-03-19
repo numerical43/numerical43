@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&show_icons=true&theme=buefy)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=200&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=150&section=footer)
