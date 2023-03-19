@@ -1,4 +1,6 @@
-### Hi 😎
+<div align="center">
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=130&section=header)
 
 ![42 badge](https://img.shields.io/badge/42SEOUL-black?style=plastic&logo=42)
 
@@ -35,4 +37,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&show_icons=true&theme=buefy)
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=150&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=130&section=footer)
+</div>
