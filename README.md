@@ -13,8 +13,7 @@
 <img height='170' width='307' src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=numerical43&layout=compact&langs_count=10&role=OWNER,COLLABORATOR&theme=buefy" alt="Numer's Language stats" /> <img height='170' width='400' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&show_icons=true&theme=buefy" alt="Numer's GitHub stats" />
   
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=numerical43&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) 
-
+<img height='170' width='400' src="https://github-readme-stats-gihttps://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=graywhite />
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=130&section=footer) 
 
