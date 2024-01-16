@@ -61,7 +61,7 @@
     </tr>
       <td align="center"><a href="https://github.com/fixplzz"><b>도로 위 <br> 성동구</b></a></td>
       <td>🛠  SW개발 공모전 : 피우다 프로젝트(성동구 공공서비스 문제 해결)
-        <img alt="본선진출" src="https://img.shields.io/badge/본선진출-black?style=flat&logo=Pinboard"/>
+        <img alt="본선 진출" src="https://img.shields.io/badge/본선 진출-black?style=flat&logo=Pinboard"/>
       </td>
       <td>23.10.01 ~ 23.11.30</td>
     </tr>
