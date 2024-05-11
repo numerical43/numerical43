@@ -39,7 +39,7 @@
   <tbody>
     <tr>
       <td align="center"><a href="https://github.com/cca-ffodregamdi"><b>러닝하이</b></a></td>
-      <td>🏃 러닝 코스 추천 플랫폼</td>
+      <td>🏃 러닝 기록 + SNS 플랫폼</td>
       <td>23.08.07 ~ </td>
     </tr>
     <tr>
