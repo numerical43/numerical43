@@ -29,6 +29,12 @@
 
 <br>
 
+<div align="center"> 
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=130&section=footer) 
