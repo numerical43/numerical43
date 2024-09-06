@@ -2,6 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=507EA4&height=130&section=header)
   
+<!-- 
 #### ✍️ Education
 
 ![42 badge](https://img.shields.io/badge/42SEOUL-black?style=flat&logo=42)
@@ -23,11 +24,13 @@
 ![Docker](https://img.shields.io/badge/Docker-384d54?style=flat&logo=Docker&logoColor=0db7ed)
 
 <br>
-
-<!-- <img height='170' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&show_icons=true&theme=graywhite" alt="Numer's GitHub stats" />  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats) 
 -->
 
+<!-- 
+<img height='170' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&show_icons=true&theme=graywhite" alt="Numer's GitHub stats" />  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+-->
+
 
 <div align="center"> 
 
