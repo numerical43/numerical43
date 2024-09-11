@@ -26,6 +26,50 @@
 <br>
 -->
 
+<!--
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>📚 Summary</b></td>
+      <td><b>📆 Period</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/cca-ffodregamdi"><b>러닝하이</b></a></td>
+      <td>🏃 러닝 기록 + SNS 플랫폼</td>
+      <td>23.08.07 ~ </td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/meta-mingles"><b>Meta Mingle</b></a></td>
+      <td>⭐  아바타 동영상을 통한 문화 교류 커뮤니티 메타버스 플랫폼
+         <img alt="강사상 수상" src="https://img.shields.io/badge/강사상 수상-black?style=flat&logo=Pinboard"/>
+      </td>
+      <td>23.10.07 ~ 23.12.12</td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/isthisteamisthis"><b>랄라리아</b></a></td>
+      <td>🎤  AI 기반 커버 노래 공유 & 매칭 커뮤니티</td>
+      <td>23.09.06 ~ 23.09.26</td>
+    </tr>
+      <td align="center"><a href="https://github.com/goalapa/spring-cacamuca"><b>까까무까</b></a></td>
+      <td>🍪  전세계 과자 리뷰 사이트</td>
+      <td>23.07.06 ~ 23.07.31</td>
+    </tr>
+    </tr>
+      <td align="center"><a href="https://github.com/fixplzz"><b>도로 위 <br> 성동구</b></a></td>
+      <td>🛠  SW개발 공모전 : 피우다 프로젝트(성동구 공공서비스 문제 해결)
+        <img alt="본선 진출" src="https://img.shields.io/badge/본선 진출-black?style=flat&logo=Pinboard"/>
+      </td>
+      <td>23.10.01 ~ 23.11.30</td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+-->
+
 <!-- 
 <img height='170' width='410' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=numerical43&show_icons=true&theme=graywhite" alt="Numer's GitHub stats" />  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=numerical43&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 <br>
