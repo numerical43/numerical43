@@ -79,7 +79,7 @@
 <div align="center"> 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-920%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
